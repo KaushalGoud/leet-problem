@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaushalGoud/leet-problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0341-flatten-nested-list-iterator](https://github.com/KaushalGoud/leet-problem/tree/master/0341-flatten-nested-list-iterator) |
 | [1598-crawler-log-folder](https://github.com/KaushalGoud/leet-problem/tree/master/1598-crawler-log-folder) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/KaushalGoud/leet-problem/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## String
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/KaushalGoud/leet-problem/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaushalGoud/leet-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/KaushalGoud/leet-problem/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KaushalGoud/leet-problem/tree/master/2073-time-needed-to-buy-tickets) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/KaushalGoud/leet-problem/tree/master/0341-flatten-nested-list-iterator) |
 | [0933-number-of-recent-calls](https://github.com/KaushalGoud/leet-problem/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -50,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/KaushalGoud/leet-problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/KaushalGoud/leet-problem/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Tree
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/KaushalGoud/leet-problem/tree/master/0341-flatten-nested-list-iterator) |
+## Depth-First Search
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/KaushalGoud/leet-problem/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/KaushalGoud/leet-problem/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
