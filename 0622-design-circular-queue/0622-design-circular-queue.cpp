@@ -1,6 +1,6 @@
 class MyCircularQueue {
 public:
-int front=0,rear=0;
+int front=0,rear=-1;
 int * arr;
 int k=0;int size=0;
     MyCircularQueue(int k){
@@ -31,7 +31,7 @@ int k=0;int size=0;
     
     int Front() {
         if(this->isEmpty())return -1;
-        return arr[(front+1)%k];
+        return arr[front];
     }
     
     int Rear() {
