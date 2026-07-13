@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaushalGoud/leet-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0622-design-circular-queue](https://github.com/KaushalGoud/leet-problem/tree/master/0622-design-circular-queue) |
+| [0682-baseball-game](https://github.com/KaushalGoud/leet-problem/tree/master/0682-baseball-game) |
 | [1598-crawler-log-folder](https://github.com/KaushalGoud/leet-problem/tree/master/1598-crawler-log-folder) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KaushalGoud/leet-problem/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaushalGoud/leet-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0341-flatten-nested-list-iterator](https://github.com/KaushalGoud/leet-problem/tree/master/0341-flatten-nested-list-iterator) |
+| [0682-baseball-game](https://github.com/KaushalGoud/leet-problem/tree/master/0682-baseball-game) |
 | [1598-crawler-log-folder](https://github.com/KaushalGoud/leet-problem/tree/master/1598-crawler-log-folder) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/KaushalGoud/leet-problem/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## String
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/KaushalGoud/leet-problem/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KaushalGoud/leet-problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/KaushalGoud/leet-problem/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Tree
