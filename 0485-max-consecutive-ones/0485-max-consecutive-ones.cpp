@@ -11,9 +11,7 @@ public:
                 count = 0;
             
             }
-            if(prev<count){
-                prev=count;
-            }
+           prev=max(prev,count);
         }
         return prev;
     }
