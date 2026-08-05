@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaushalGoud/leet-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KaushalGoud/leet-problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KaushalGoud/leet-problem/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/KaushalGoud/leet-problem/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/KaushalGoud/leet-problem/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/KaushalGoud/leet-problem/tree/master/0682-baseball-game) |
 | [1598-crawler-log-folder](https://github.com/KaushalGoud/leet-problem/tree/master/1598-crawler-log-folder) |
