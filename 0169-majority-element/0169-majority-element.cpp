@@ -15,6 +15,13 @@ public:
                 count --;
             }
         }
-       return elem;
+       int sureCount=0;
+       for(int i=0;i<nums.size();i++){
+        if(nums[i]==elem)sureCount++;
+
+       }
+       if(sureCount>nums.size()/2) 
+        return elem;
+    return -1;
     }
 };
