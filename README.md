@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KaushalGoud/leet-problem/tree/master/0682-baseball-game) |
 | [1598-crawler-log-folder](https://github.com/KaushalGoud/leet-problem/tree/master/1598-crawler-log-folder) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KaushalGoud/leet-problem/tree/master/2073-time-needed-to-buy-tickets) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/KaushalGoud/leet-problem/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/KaushalGoud/leet-problem/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KaushalGoud/leet-problem/tree/master/2073-time-needed-to-buy-tickets) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/KaushalGoud/leet-problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/KaushalGoud/leet-problem/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KaushalGoud/leet-problem/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/KaushalGoud/leet-problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KaushalGoud/leet-problem/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/KaushalGoud/leet-problem/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
