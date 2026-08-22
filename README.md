@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KaushalGoud/leet-problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/KaushalGoud/leet-problem/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaushalGoud/leet-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/KaushalGoud/leet-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/KaushalGoud/leet-problem/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaushalGoud/leet-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/KaushalGoud/leet-problem/tree/master/0169-majority-element) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaushalGoud/leet-problem/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/KaushalGoud/leet-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/KaushalGoud/leet-problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaushalGoud/leet-problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KaushalGoud/leet-problem/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaushalGoud/leet-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KaushalGoud/leet-problem/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
