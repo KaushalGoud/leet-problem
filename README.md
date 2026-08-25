@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/KaushalGoud/leet-problem/tree/master/1598-crawler-log-folder) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KaushalGoud/leet-problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushalGoud/leet-problem/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/KaushalGoud/leet-problem/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KaushalGoud/leet-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/KaushalGoud/leet-problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaushalGoud/leet-problem/tree/master/0387-first-unique-character-in-a-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/KaushalGoud/leet-problem/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Queue
 |  |
 | ------- |
